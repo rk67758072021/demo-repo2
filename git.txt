@@ -2,3 +2,20 @@ git checkout >>for changing the branches.
 
 
 git checkout -b branch_name
+
+git remote add origin https://github.com/rk67758072021/demo-repo2.git
+
+git push -u origin main.
+
+git status
+
+git add <file_name>
+
+git add .
+
+git init.
+
+
+git remote -v.
+
+
