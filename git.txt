@@ -1,0 +1,4 @@
+git checkout >>for changing the branches.
+
+
+git checkout -b branch_name
