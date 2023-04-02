@@ -18,3 +18,5 @@ agar hum kisi aur ka git repo use kr rhe hai ya access rights nhin hai toh pull 
 <!-- Local Git Workflow -->
 
 write code-> git add (stage changes) -> commit changes (git commit) -> push changes (git push) -> make a pull request
+
+cd ../demo-repo2
